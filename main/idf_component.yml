@@ -14,5 +14,7 @@ dependencies:
   #   # `public` flag doesn't have an effect dependencies of the `main` component.
   #   # All dependencies of `main` are public by default.
   #   public: true
-  lvgl/lvgl: ^9.4.0
-  espressif/esp_lvgl_port: ^2.7.1
+  esp-idf-lib/bmi160: ^1.0.3
+  esp-idf-lib/bmp280: ^1.0.7
+  esp-idf-lib/aht: ^1.0.8
+  jbrilha/esp_lcd_st7789: ^1.0.2
